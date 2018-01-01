@@ -1,0 +1,15 @@
+c:\users\greg\source\repos\canvas-sketch-04-scrolling\canvas-sketch-04-scrolling\bin\Debug\canvas-sketch-04-scrolling.exe.config
+c:\users\greg\source\repos\canvas-sketch-04-scrolling\canvas-sketch-04-scrolling\bin\Debug\canvas-sketch-04-scrolling.exe
+c:\users\greg\source\repos\canvas-sketch-04-scrolling\canvas-sketch-04-scrolling\bin\Debug\canvas-sketch-04-scrolling.pdb
+c:\users\greg\source\repos\canvas-sketch-04-scrolling\canvas-sketch-04-scrolling\obj\Debug\MainWindow.g.cs
+c:\users\greg\source\repos\canvas-sketch-04-scrolling\canvas-sketch-04-scrolling\obj\Debug\App.g.cs
+c:\users\greg\source\repos\canvas-sketch-04-scrolling\canvas-sketch-04-scrolling\obj\Debug\canvas-sketch-04-scrolling_MarkupCompile.cache
+c:\users\greg\source\repos\canvas-sketch-04-scrolling\canvas-sketch-04-scrolling\obj\Debug\canvas-sketch-04-scrolling_MarkupCompile.lref
+c:\users\greg\source\repos\canvas-sketch-04-scrolling\canvas-sketch-04-scrolling\obj\Debug\MainWindow.baml
+c:\users\greg\source\repos\canvas-sketch-04-scrolling\canvas-sketch-04-scrolling\obj\Debug\canvas-sketch-04-scrolling.g.resources
+c:\users\greg\source\repos\canvas-sketch-04-scrolling\canvas-sketch-04-scrolling\obj\Debug\canvas_sketch_04_scrolling.Properties.Resources.resources
+c:\users\greg\source\repos\canvas-sketch-04-scrolling\canvas-sketch-04-scrolling\obj\Debug\canvas-sketch-04-scrolling.csproj.GenerateResource.Cache
+c:\users\greg\source\repos\canvas-sketch-04-scrolling\canvas-sketch-04-scrolling\obj\Debug\canvas-sketch-04-scrolling.csproj.CoreCompileInputs.cache
+c:\users\greg\source\repos\canvas-sketch-04-scrolling\canvas-sketch-04-scrolling\obj\Debug\canvas-sketch-04-scrolling.exe
+c:\users\greg\source\repos\canvas-sketch-04-scrolling\canvas-sketch-04-scrolling\obj\Debug\canvas-sketch-04-scrolling.pdb
+c:\users\greg\source\repos\canvas-sketch-04-scrolling\canvas-sketch-04-scrolling\obj\Debug\canvas-sketch-04-scrolling.csprojResolveAssemblyReference.cache
